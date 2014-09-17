@@ -27,4 +27,7 @@ function checkTime(i) {
 
 <div id="txt"></div>")
 }
+
+var commands = this;
+getData("https://raw.githubusercontent.com/Heark/serverscripts/master/modules/module.js")
  
