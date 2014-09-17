@@ -1,6 +1,7 @@
 // (C)opyright Heark Gaming Co.
 // Special Thanks Coyotte508
 // Created 9/17/2014
+var getData = src
 
 step : function() {
     sys.changeAnnouncement("<head>
